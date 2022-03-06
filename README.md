@@ -1,5 +1,5 @@
-# Lets-Learn-Git
-All about Git
+# Flipkart Clone Project
+
 **The Soul Purpose of this Repository is to make use of Git hub CommanLine and Upload my Dummy flipkart Project, which i made using my FrontEnd Skills.
 The BackEnd Version of this Particular Website is still under work and would be uploaded soon.✌🏻**
 
